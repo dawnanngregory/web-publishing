@@ -21,3 +21,16 @@ We are a proud member of [Carpentries Homepage](https://carpentries.org/)
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
+
+## New Second Level Heading
+Another line with [Link](https://carpentries.org/)
+
+More text with ~~strikethrough~~
+
+### New Third Level Heading
+1. one
+2. two
+3. three
+
+![my image](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
